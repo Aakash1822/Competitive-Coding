@@ -1,0 +1,21 @@
+Given a, b and c, print the value of x according to the quadratic formula as:
+
+
+x = -b + sq root(b^2-4ac)/2a
+
+
+Input Format:
+three integer numbers a, b and c separated by single space
+
+
+Output Format:
+single number represents the value of x
+
+
+Sample Input:
+-3 -7 3
+
+
+Sample Output:
+-2.703257
+
